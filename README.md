@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
 
-**imran-7me/imran-7me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+imran-7me is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
